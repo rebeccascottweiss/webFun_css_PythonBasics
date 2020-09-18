@@ -35,7 +35,7 @@ header{
         font-size: small; 
     }
 
-    header div.search p span {
+    header div.search p span{
         color: black; 
     }
     
@@ -140,7 +140,7 @@ div.poetry p{
         font-size: larger; 
         color:  #D5B400; 
         font-style: italic; 
-        padding; 15px; 
+        padding: 15px; 
         line-height: 30px; 
     }
 
@@ -224,7 +224,7 @@ div.info section.about{
             font-size: medium; 
         }
         
-        section.copywrite{
+        section.copyright{
             color: #87BAE5; 
             font-size: small; 
             padding: 5px; 
